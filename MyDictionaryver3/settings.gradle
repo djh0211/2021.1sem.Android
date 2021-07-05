@@ -1,0 +1,2 @@
+rootProject.name = "MyDictionaryver3"
+include ':app'

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/voca_page"
+        android:title="Voca"
+        android:icon="@drawable/book" />
+
+    <item android:id="@+id/add_page"
+        android:title="단어추가,삭제"
+        android:icon="@drawable/add" />
+
+    <item android:id="@+id/bookmark_page"
+        android:title="즐겨찾기"
+        android:icon="@drawable/bookmark" />
+
+    <item android:id="@+id/quiz_page"
+        android:title="Quiz"
+        android:icon="@drawable/quiz" />
+
+    <item android:id="@+id/naver_page"
+        android:title="인터넷사전"
+        android:icon="@drawable/parrot" />
+</menu>

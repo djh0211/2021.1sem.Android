@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20556565279",
+    "project_id": "fbdictionary-6f23f",
+    "storage_bucket": "fbdictionary-6f23f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20556565279:android:1d2b395c7931195cfc7e2a",
+        "android_client_info": {
+          "package_name": "com.example.fbdictionaryfragver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20556565279-0r89lpemsi5d61ghort8t0vqsem5vh3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpneT_WrdMvspzW4kgknKMj9x3ZmU52fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20556565279-0r89lpemsi5d61ghort8t0vqsem5vh3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

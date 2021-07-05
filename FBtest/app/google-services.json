@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348556721532",
+    "project_id": "myfbdb-88c59",
+    "storage_bucket": "myfbdb-88c59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348556721532:android:9c9b1721d7c24dd1bf78f9",
+        "android_client_info": {
+          "package_name": "com.example.fbtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348556721532-79t34lugun0liqhg9t9nhpenb41ok9c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkUgWqn7N03CYNmZ0shz4MuIhRsfDCO30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348556721532-79t34lugun0liqhg9t9nhpenb41ok9c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
